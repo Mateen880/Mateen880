@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Agentic AI, LLMs, RAG**  
 - 👨‍💻 All of my projects are available at: https://github.com/Mateen880  
 - 📫 How to reach me: **abdulmat40@gmail.com**  
-- 📄 Know about my experiences:https://drive.google.com/file/d/1Pa8bBXhfhFEJgWTJwZbM-pa1DxH15fVD/view?usp=drive_link
+- 📄 Know about my experiences: https://drive.google.com/file/d/1Pa8bBXhfhFEJgWTJwZbM-pa1DxH15fVD/view?usp=drive_link
 
 ---
 
