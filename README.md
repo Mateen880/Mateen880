@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abdulmat40@gmail.com**
 
-- 📄 Know about my experiences [**[https://drive.google.com/file/d/1Pa8bBXhfhFEJgWTJwZbM-pa1DxH15fVD/view?usp=drive_link](https://drive.google.com/file/d/1Pa8bBXhfhFEJgWTJwZbM-pa1DxH15fVD/view?usp=drive_link)**](https://drive.google.com/file/d/1IrpkLioniDU79kTVQndSuZdrjQ2nvNcG/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1IrpkLioniDU79kTVQndSuZdrjQ2nvNcG/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
