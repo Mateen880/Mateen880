@@ -2,8 +2,6 @@
 
 ### An AI Undergraduate student from Pakistan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mateen880" alt="Mateen880" /></a> </p>
-
 - 🔭 I'm currently working on **multiple projects related to Computer Vision, NLP, LLMs etc.**
 
 - 🌱 I'm currently learning **Agentic AI, LLMs, RAG**
