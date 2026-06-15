@@ -23,7 +23,6 @@ class AbdulMateen:
     def __init__(self):
         self.name         = "Abdul Mateen"
         self.role         = "AI Undergraduate @ FAST-NUCES Islamabad"
-        self.cgpa         = 3.23
         self.location     = "Islamabad, Pakistan 🇵🇰"
         self.email        = "abdulmat40@gmail.com"
         self.github       = "github.com/Mateen880"
